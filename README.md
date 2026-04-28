@@ -120,7 +120,6 @@ User submits request
 
 ## 📸 Screenshots
 
-(Add your screenshots in the `docs/screenshots` folder and link them below)
 
 Example:
 
